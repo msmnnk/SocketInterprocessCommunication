@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  CMySocket.cpp
+  Serv.cpp
+  ServDlg.cpp
+  Generating Code...
+E:\Новая папка (5)\21variant\Serv\Serv\CMySocket.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Serv.vcxproj -> E:\Новая папка (5)\21variant\Serv\Debug\Serv.exe

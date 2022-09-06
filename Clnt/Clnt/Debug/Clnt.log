@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Clnt.cpp
+  ClntDlg.cpp
+  CMySocket.cpp
+  Generating Code...
+E:\Новая папка (5)\21variant\Clnt\Clnt\ClntDlg.cpp(175,17): warning C4244: '=': conversion from 'wchar_t' to 'CHAR', possible loss of data
+  Clnt.vcxproj -> E:\Новая папка (5)\21variant\Clnt\Debug\Clnt.exe

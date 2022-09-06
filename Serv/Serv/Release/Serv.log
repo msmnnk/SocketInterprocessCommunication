@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  CMySocket.cpp
+  Serv.cpp
+  ServDlg.cpp
+E:\Новая папка (5)\21variant\Serv\Serv\CMySocket.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 207 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Serv.vcxproj -> E:\Новая папка (5)\21variant\Serv\Release\Serv.exe
